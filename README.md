@@ -44,7 +44,7 @@ It demonstrates Excel-based data analytics skills including PivotTables, KPIs, C
 | File | Description |
 |------|--------------|
 | `SP500_Analysis.xlsx` | Final interactive Excel dashboard |
-| `S&P 500 Stock Prices 2014-2017.csv` | Raw dataset |
+| `S&P 500 Stock Prices 2014-2017_Raw_file.csv` | Raw dataset |
 | `README.md` | Project overview and documentation |
 
 ---
