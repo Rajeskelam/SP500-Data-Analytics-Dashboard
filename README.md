@@ -62,4 +62,7 @@ It demonstrates Excel-based data analytics skills including PivotTables, KPIs, C
 - Data Storytelling for Business Insights
 
 
+### 🖼️ Dashboard Preview
+<img width="1920" height="1020" alt="Screenshot 2025-10-22 193137" src="https://github.com/user-attachments/assets/13974eb2-1858-4bfe-9301-27eb93f50408" />
+
 
